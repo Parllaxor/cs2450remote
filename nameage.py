@@ -12,11 +12,11 @@ def guess_age(name):
     while x > 0:
         random_age = random.randint(15, 30)
         age_guess = input(f"Are you {random_age} years old? ")
-        if "y" in age_guess.lower():
+        if "yes" in age_guess.lower():
             print(f"""YES! {name} is {random_age} years old!""")
             sys.exit()
 
-        elif "n" in age_guess.lower():
+        elif "no" in age_guess.lower():
             print("""Rats.""")
 
         else:
