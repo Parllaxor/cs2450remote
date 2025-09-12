@@ -8,4 +8,9 @@ most important events and experiences in this journal for the duration of my sem
 
 Date: 9/3/2025
 Subject: Idea generation and Youface beginnings
+
 Today we brainstormed ideas in our group for our social media app that we will create in class. We have some good ideas, ideas that I've had for a long time. It will be exciting to see how we implement them. I've been able to learn more about WSL, I still have a lot to learn but I'm starting to catch on. My side project is going well as well, and I managed to create a github repository for my friend and I to work on it together, using information that I learned in class last week.
+
+Date: 9/12/2025
+Subject: Application... application
+Over the past few days, in order to prepare myself a little for the coming assignments in various classes, I have begun working on various coding projects, including some applications that I'd like to spend some time creating over the next few months, or even years. This will hopefully give me the experience I need to build applications in the future, and will be helpful for me in the future as I enter the career field.
