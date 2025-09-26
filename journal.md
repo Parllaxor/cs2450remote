@@ -18,3 +18,7 @@ Over the past few days, in order to prepare myself a little for the coming assig
 Date: 9/22/2025
 Subject: Weighted dictionaries and repetition elimination
 I've been working on some personal projects that have been helping me to better understand ways to write efficient code, for example I have learned a way to create embedded dictionaries for objects to give them "weighted values". This allows me to alter the probability of something being chosen from a list, or even eliminate repeats by setting weights to 0 after using them.
+
+Date: 9/26/2025
+Subject: Class structures and implementations
+In 2420, we have been learning how to use ADT classes and it's been very eye opening for me. I've been able to learn a lot about how to use classes, the syntax for them, and I can definitely see the value in creating classes. I've previously learned how to use classes in C++, but have since become less than capable at using them. I would like to relearn some C++ coding in the next few months, while still trying to hone my abilities in Python, HTMl and CSS.
