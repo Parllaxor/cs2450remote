@@ -22,3 +22,7 @@ I've been working on some personal projects that have been helping me to better 
 Date: 9/26/2025
 Subject: Class structures and implementations
 In 2420, we have been learning how to use ADT classes and it's been very eye opening for me. I've been able to learn a lot about how to use classes, the syntax for them, and I can definitely see the value in creating classes. I've previously learned how to use classes in C++, but have since become less than capable at using them. I would like to relearn some C++ coding in the next few months, while still trying to hone my abilities in Python, HTMl and CSS.
+
+Date: 9/30/2025
+Subject: Component diagrams and their value
+In 2450, we needed to create a component diagram for our soon-to-be social media project. Our group threw something together, but didn't seem to fully comprehend what exactly the components were for, what they do, or why we even care. Yesterday and today, I've started doing some research on my own and have begun to understand now only the component diagram structure better, but also the value of the component diagram. This also goes with the flow diagram, something very valuable to ensure that code runs streamlined and not confusing. I still have tons to learn, but I'm definitely starting to make some progress.
