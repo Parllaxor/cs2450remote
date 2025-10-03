@@ -8,7 +8,6 @@ most important events and experiences in this journal for the duration of my sem
 
 Date: 9/3/2025
 Subject: Idea generation and Youface beginnings
-
 Today we brainstormed ideas in our group for our social media app that we will create in class. We have some good ideas, ideas that I've had for a long time. It will be exciting to see how we implement them. I've been able to learn more about WSL, I still have a lot to learn but I'm starting to catch on. My side project is going well as well, and I managed to create a github repository for my friend and I to work on it together, using information that I learned in class last week.
 
 Date: 9/12/2025
@@ -21,8 +20,12 @@ I've been working on some personal projects that have been helping me to better 
 
 Date: 9/26/2025
 Subject: Class structures and implementations
-In 2420, we have been learning how to use ADT classes and it's been very eye opening for me. I've been able to learn a lot about how to use classes, the syntax for them, and I can definitely see the value in creating classes. I've previously learned how to use classes in C++, but have since become less than capable at using them. I would like to relearn some C++ coding in the next few months, while still trying to hone my abilities in Python, HTMl and CSS.
+In 2420, we have been learning how to use ADT classes and it's been very eye opening for me. I've been able to learn a lot about how to use classes, the syntax for them, and I can definitely see the value in creating classes. I've previously learned how to use classes in C++, but have since become less than capable at using them. I would like to relearn some C++ coding in the next few months, while still trying to hone my abilities in Python, HTML and CSS.
 
 Date: 9/30/2025
 Subject: Component diagrams and their value
 In 2450, we needed to create a component diagram for our soon-to-be social media project. Our group threw something together, but didn't seem to fully comprehend what exactly the components were for, what they do, or why we even care. Yesterday and today, I've started doing some research on my own and have begun to understand now only the component diagram structure better, but also the value of the component diagram. This also goes with the flow diagram, something very valuable to ensure that code runs streamlined and not confusing. I still have tons to learn, but I'm definitely starting to make some progress.
+
+Date: 10/3/2025
+Subject: Humble Beginnings
+We have begun coding for our YouFace project over these last few days. I had a couple struggles trying to get the requirements.txt document to read by the code to download the various modules I would need, but in the end I got it working. I made the first pull request today, having added a "birthday" requirement to the login page of our project. I was content with what I figured out, managing to effectively navigate the many files and folders in the project, and it was definitely a good starting project to get off my feet and start understanding the code better.
