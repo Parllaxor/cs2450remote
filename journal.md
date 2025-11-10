@@ -29,3 +29,19 @@ In 2450, we needed to create a component diagram for our soon-to-be social media
 Date: 10/3/2025
 Subject: Humble Beginnings
 We have begun coding for our YouFace project over these last few days. I had a couple struggles trying to get the requirements.txt document to read by the code to download the various modules I would need, but in the end I got it working. I made the first pull request today, having added a "birthday" requirement to the login page of our project. I was content with what I figured out, managing to effectively navigate the many files and folders in the project, and it was definitely a good starting project to get off my feet and start understanding the code better.
+
+Date: 10/7/2025
+Subject: Bags
+We started learning about ADTs more in depth this class, learning about linked lists and various other styles of making bags that can insert, delete, retrieve, and do various other commands inside of a bag of objects. I've started brainstorming about things I could do with them.
+
+Date: 10/17/2025
+Subject: Itertools
+I started another side project to learn how to use the itertools module in python, there are a lot of useful tools in there and I would like to be able to learn how to use them and their possible implementations. I want to learn one new python module every two months, although it might be difficult and require more time to master because of the lack of practice time I possess at this time.
+
+Date: 10/31/2025
+Subject: Halloween!
+I have little to report this week. I have overhauled much of the Youface project in CS2450, and I have been enjoying learning how the code base works and have even gotten good enough that I rarely need AI's help to get things to work. Happy Halloween!
+
+Date: 11/10/2025
+Subject: New project begin
+Yesterday I started a new application-based project, using things I learned in CS2450. I'm building a Flask website using blueprints and various python code, including finding ways to implement BSTs and other algorithms I've learned in CS2420 and CS2100. I'm attempting to build it, at least for the most part, without the help of AI for any software related code, although I might use some for formatting and UX/UI.
