@@ -45,3 +45,15 @@ I have little to report this week. I have overhauled much of the Youface project
 Date: 11/10/2025
 Subject: New project begin
 Yesterday I started a new application-based project, using things I learned in CS2450. I'm building a Flask website using blueprints and various python code, including finding ways to implement BSTs and other algorithms I've learned in CS2420 and CS2100. I'm attempting to build it, at least for the most part, without the help of AI for any software related code, although I might use some for formatting and UX/UI.
+
+Date: 11/16/2025
+Subject: Project continuation
+I began building another section of my website, it's going to be a project hub for interesting things that I decide to create. First I have built a movie recommendation system, using a BST to insert a bunch of movies into a bag and then pull them out based on genre to recommend certain movies, starting first with sequel movies and prequel movies.
+
+Date: 11/22/2025
+Subject: More project
+I didn't get too much done since last time, but I made the code capable of detecting spelling errors and finding the intended movie by the user regardless, as well as guessing the general movies that might be relevant. A little more code was imported to allow for a bit more personalized recommendations.
+
+Date: 12/1/2025
+Subject: Youface almost finished
+Youface was a cool project that my group worked on in CS2450, we called it the "inator-inator", and we are quite proud of the work we accomplished. We got an AI chatbot working with an API key, and there is a complex and intricate friend, request, following and chatting system in the website as well. If time allows, I'd like to try and quickly get a post page that will allow users to see random posts from other users. I also got a suggested friends list on the requests page, which allows users to have an easier time finding friends instead of just typing a username into a text box.
